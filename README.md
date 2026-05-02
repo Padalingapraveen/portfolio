@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cyber Security
 --------------
 
-As a third-year student majoring in cybersecurity, I have a keen interest in threat detection and network security. I started out as a novice but have since advanced to an intermediate learner, developing practical projects like a phishing mail detector that piqued my interest in actual cyberthreats. Through TryHackMe's cybersecurity labs, where I practice penetration testing, vulnerability analysis, and defensive security techniques, I am now studying the principles of networks and developing my skills.
+As a Final year student majoring in cybersecurity, I have a keen interest in threat detection and network security. I started out as a novice but have since advanced to an intermediate learner, developing practical projects like a phishing mail detector that piqued my interest in actual cyberthreats. Through TryHackMe's cybersecurity labs, where I practice penetration testing, vulnerability analysis, and defensive security techniques, I am now studying the principles of networks and developing my skills.
 
 * 🌍  I'm based in Coimbatore
 * 🖥️  See my portfolio at [MyPortfolio](http://github.com/Padalingapraveen/portfolio)
